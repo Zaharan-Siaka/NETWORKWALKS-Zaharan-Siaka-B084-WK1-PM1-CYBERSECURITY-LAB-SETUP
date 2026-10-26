@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot_2026-10-26_20_04_17" src="https://github.com/user-attachments/assets/3a8cb257-58a2-4927-8bfb-1d764b264122" /># NETWORKWALKS-Zaharan-Siaka-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# NETWORKWALKS-Zaharan-Siaka-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
 # NETWORKWALKS-Zaharan-Siaka-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
