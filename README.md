@@ -56,6 +56,8 @@ Setup a complete Cybersecurity testing lab environment using VirtualBox and Kali
 ---
 
 ## Screenshots
+### 1. Network Adapter Settings
+<img width="1366" height="768" alt="Screenshot_2026-10-26_19_28_52" src="https://github.com/user-attachments/assets/9db155a5-42e4-462c-aecf-bd62eb6d04a6" />
 
 
 
