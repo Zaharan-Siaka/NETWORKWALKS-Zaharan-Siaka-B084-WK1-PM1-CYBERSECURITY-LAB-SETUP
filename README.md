@@ -74,6 +74,10 @@ Setup a complete Cybersecurity testing lab environment using VirtualBox and Kali
 ### 6. Snapshot
 <img width="1366" height="768" alt="Screenshot_2026-10-26_20_04_17" src="https://github.com/user-attachments/assets/fcd6eb5c-b2f9-4744-ada7-a1ea3f26570a" />
 
+### 7. Drag And Drop (Bidirectional)
+<img width="1366" height="768" alt="Screenshot_2026-10-26_20_15_45" src="https://github.com/user-attachments/assets/a472e3b4-a4ed-42e1-b300-4d62b9941412" />
+
+
 
 
 
