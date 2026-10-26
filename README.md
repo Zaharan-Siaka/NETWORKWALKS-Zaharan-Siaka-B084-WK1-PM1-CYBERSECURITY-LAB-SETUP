@@ -67,8 +67,10 @@ Setup a complete Cybersecurity testing lab environment using VirtualBox and Kali
 
 ### 4. Internet test
 <img width="1356" height="657" alt="VirtualBox_kali-lab_26_10_2026_20_05_45" src="https://github.com/user-attachments/assets/c8dc9c85-3fd8-4eff-abb0-07e470541e55" />
+
 ### 5. Shared Folder
 <img width="1356" height="657" alt="VirtualBox_kali-lab_26_10_2026_20_03_13" src="https://github.com/user-attachments/assets/c5b16d78-f5df-4bba-8cee-3b1083d1c1c7" />
+
 ### 6. Snapshot
 <img width="1366" height="768" alt="Screenshot_2026-10-26_20_04_17" src="https://github.com/user-attachments/assets/fcd6eb5c-b2f9-4744-ada7-a1ea3f26570a" />
 
