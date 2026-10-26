@@ -1,4 +1,4 @@
-# NETWORKWALKS-Zaharan-Siaka-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
+<img width="1366" height="768" alt="Screenshot_2026-10-26_20_04_17" src="https://github.com/user-attachments/assets/3a8cb257-58a2-4927-8bfb-1d764b264122" /># NETWORKWALKS-Zaharan-Siaka-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
 # NETWORKWALKS-Zaharan-Siaka-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
@@ -58,6 +58,20 @@ Setup a complete Cybersecurity testing lab environment using VirtualBox and Kali
 ## Screenshots
 ### 1. Network Adapter Settings
 <img width="1366" height="768" alt="Screenshot_2026-10-26_19_28_52" src="https://github.com/user-attachments/assets/9db155a5-42e4-462c-aecf-bd62eb6d04a6" />
+
+### 2.Nat Network Configuration
+<img width="1366" height="768" alt="Screenshot_2026-10-26_19_41_19" src="https://github.com/user-attachments/assets/56b53d07-c324-403d-9c27-a6fbd99a16d7" />
+
+### 3.Kali IP Address
+<img width="1356" height="657" alt="VirtualBox_kali-lab_26_10_2026_20_06_40" src="https://github.com/user-attachments/assets/c8ab5c28-a55a-4483-9fa7-5e0b76d7b426" />
+
+### 4. Internet test
+<img width="1356" height="657" alt="VirtualBox_kali-lab_26_10_2026_20_05_45" src="https://github.com/user-attachments/assets/c8dc9c85-3fd8-4eff-abb0-07e470541e55" />
+### 5. Shared Folders
+<img width="1356" height="657" alt="VirtualBox_kali-lab_26_10_2026_20_03_13" src="https://github.com/user-attachments/assets/c5b16d78-f5df-4bba-8cee-3b1083d1c1c7" />
+### 6 . Snapshot
+<img width="1366" height="768" alt="Screenshot_2026-10-26_20_04_17" src="https://github.com/user-attachments/assets/fcd6eb5c-b2f9-4744-ada7-a1ea3f26570a" />
+
 
 
 
