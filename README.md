@@ -1,7 +1,5 @@
 # NETWORKWALKS-Zaharan-Siaka-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
-# NETWORKWALKS-Zaharan-Siaka-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
-
 ## Student Information
 - Name: Siaka Zaharan Onoruoiza
 - Batch: B084
