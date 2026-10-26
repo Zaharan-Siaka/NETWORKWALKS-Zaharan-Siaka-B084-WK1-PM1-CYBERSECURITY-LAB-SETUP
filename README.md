@@ -21,7 +21,7 @@ Setup a complete Cybersecurity testing lab environment using VirtualBox and Kali
 | NAT Network (10.0.0.0/24)          | ✅ Completed |
 | Kali IP Address: 10.0.0.2/24       | ✅ Completed |
 | Full Internet Access               | ✅ Completed |
-| Shared Folder (/downloads)       | ✅ Completed |
+| Shared Folder (/downloads)         | ✅ Completed |
 | Clipboard (Bidirectional)          | ✅ Completed |
 | Drag and Drop (Bidirectional)      | ✅ Completed |
 | Snapshot taken                     | ✅ Completed |
