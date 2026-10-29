@@ -75,8 +75,7 @@ Setup a complete Cybersecurity testing lab environment using VirtualBox and Kali
    ![Snapshot](6-snapshot.png)
 
 6. Drag And Drop (Bidirectional) 
-   ![Drag And Drop(Bidirectional)](7-drag-and-drop.png)
-
+   ![Drag And Drop(Bidirectional)](7-drag-and-drop(bidirectional).png)
 
 
 
