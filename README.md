@@ -54,27 +54,28 @@ Setup a complete Cybersecurity testing lab environment using VirtualBox and Kali
 ---
 
 ## Screenshots
-### 1. Network Adapter Settings
-<img width="1366" height="768" alt="Screenshot_2026-10-26_19_28_52" src="https://github.com/user-attachments/assets/9db155a5-42e4-462c-aecf-bd62eb6d04a6" />
+## Screenshots
 
-### 2.Nat Network Configuration
-<img width="1366" height="768" alt="Screenshot_2026-10-26_19_41_19" src="https://github.com/user-attachments/assets/56b53d07-c324-403d-9c27-a6fbd99a16d7" />
+1. Network Adapter Settings  
+   ![Network Adapter](1-network-adapter.png)
 
-### 3.Kali IP Address
-<img width="1356" height="657" alt="VirtualBox_kali-lab_26_10_2026_20_06_40" src="https://github.com/user-attachments/assets/c8ab5c28-a55a-4483-9fa7-5e0b76d7b426" />
+2. NAT Network Configuration  
+   ![NAT Network](2-nat-network.png)
 
-### 4. Internet test
-<img width="1356" height="657" alt="VirtualBox_kali-lab_26_10_2026_20_05_45" src="https://github.com/user-attachments/assets/c8dc9c85-3fd8-4eff-abb0-07e470541e55" />
+3. Kali IP Address  
+   ![IP Address](3-kali-ip.png)
 
-### 5. Shared Folder
-<img width="1356" height="657" alt="VirtualBox_kali-lab_26_10_2026_20_03_13" src="https://github.com/user-attachments/assets/c5b16d78-f5df-4bba-8cee-3b1083d1c1c7" />
+4. Internet Test  
+   ![Ping Test](4-ping-test.png)
 
-### 6. Snapshot
-<img width="1366" height="768" alt="Screenshot_2026-10-26_20_04_17" src="https://github.com/user-attachments/assets/fcd6eb5c-b2f9-4744-ada7-a1ea3f26570a" />
+5. Shared Folder  
+   ![Shared Folder](5-shared-folder.png)
 
-### 7. Drag And Drop (Bidirectional)
-<img width="1366" height="768" alt="Screenshot_2026-10-26_20_15_45" src="https://github.com/user-attachments/assets/a472e3b4-a4ed-42e1-b300-4d62b9941412" />
+6. Snapshot  
+   ![Snapshot](6-snapshot.png)
 
+6. Drag And Drop (Bidirectional) 
+   ![Drag And Drop(Bidirectional)](7-drag-and-drop.png)
 
 
 
